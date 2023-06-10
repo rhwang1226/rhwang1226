@@ -1,12 +1,12 @@
 <h1 align="center">🖥️ Robin Hwang 🖥️</h1>
 <h3>I’m currently working on</h3>
-- 🧠 Neural Networks/AI for particle accelerators at Stanford Linear Accelerator Center
-- 🌐 Website for Society of Asian Scientists and Engineers @ UMich and my own portfolio
-- 🤓 School at the University of Michigan
+* 🧠 Neural Networks/AI for particle accelerators at Stanford Linear Accelerator Center
+* 🌐 Website for Society of Asian Scientists and Engineers @ UMich and my own portfolio
+* 🤓 School at the University of Michigan
 
 <h3>How to reach me</h3>
-- Email me at rlhwang@umich.edu
-- Connect with me on Linkedin at https://www.linkedin.com/in/hwangr/
+* Email me at rlhwang@umich.edu
+* Connect with me on Linkedin at https://www.linkedin.com/in/hwangr/
 
 <!--
 **rhwang1226/rhwang1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
