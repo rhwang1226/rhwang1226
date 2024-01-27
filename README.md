@@ -1,7 +1,7 @@
 <h1 align="center">🖥️ Robin Hwang 🖥️</h1>
 <h3>I’m currently working on...</h3>
 <ul>
-  <li> 🧠 Neural Networks/AI for particle accelerators at Stanford Linear Accelerator Center </li>
+  <li> 🧠 Coding an app aimed at reducing long lines at retail stores and providing valuable insights to businesses </li>
   <li> 🌐 Website for Society of Asian Scientists and Engineers @ UMich and my own portfolio </li>
   <li> 🤓 School at the University of Michigan </li>
 </ul>
