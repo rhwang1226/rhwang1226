@@ -1,6 +1,8 @@
 <h1 align="center">🖥️ Robin Hwang 🖥️</h1>
 <h3>I’m currently working on...</h3>
 <ul>
+  <li> 🧪 Returning ML intern at Stanford Linear Accelerator Center </li>
+  <li> 📕 Conference proceedings/publication of research with IPAC </li>
   <li> 🧠 Cooking up a startup app (hint: deals with food waste); stay tuned! </li>
   <li> 🌐 Website for Society of Asian Scientists and Engineers @ UMich and my own portfolio </li>
   <li> 🤓 School at the University of Michigan </li>
