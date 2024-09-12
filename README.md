@@ -1,7 +1,7 @@
 <h1 align="center">🖥️ Robin Hwang 🖥️</h1>
 <h3>I’m currently working on...</h3>
 <ul>
-  <li> 🧪 Returning ML intern at Stanford Linear Accelerator Center </li>
+  <li> 🧪 ML intern at Stanford Linear Accelerator Center (working remote during the school year)! </li>
   <li> 🧠 Cooking up a startup app (hint: deals with food waste); stay tuned! </li>
   <li> 🌐 Version 2.0 of robinhwang.net </li>
   <li> 🤓 School at the University of Michigan </li>
