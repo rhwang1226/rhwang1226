@@ -2,7 +2,7 @@
 <h3>I’m currently working on...</h3>
 <ul>
   <li> 🧪 ML intern at Stanford Linear Accelerator Center (working remote during the school year)! </li>
-  <li> 🧠 Cooking up a startup app (hint: deals with food waste); stay tuned! </li>
+  <li> 🧠 Director of Workshops and Entertainment at SASE National Convention </li>
   <li> 🌐 Version 2.0 of robinhwang.net </li>
   <li> 🤓 School at the University of Michigan </li>
 </ul>
