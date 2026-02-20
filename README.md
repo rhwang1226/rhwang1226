@@ -1,9 +1,6 @@
 <h1 align="center">🖥️ Robin Hwang 🖥️</h1>
 <h3>I’m currently working on...</h3>
 <ul>
-  <li> 🚀 SWE Intern at Northrop Grumman </li>
-  <li> 🧪 ML intern at Stanford Linear Accelerator Center (working remote during the school year)! </li>
-  <li> 🦘 Studying Abroad Fall 2025 in Sydney Australia </li>
   <li> 🤓 School at the University of Michigan </li>
 </ul>
 
